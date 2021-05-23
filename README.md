@@ -1,4 +1,4 @@
-# ML_Telecom_Churn
+# Telecom Churn
 
 ## Problem Statement
 
